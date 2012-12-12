@@ -13,11 +13,11 @@
  */
 
 #banner {
-	background: #9c9;
+	background: #c2c8ff;
 	padding: 10px;
 	border-bottom: 2px solid;
 	font: small-caps 40px/40px "Times New Roman", serif;
-	color: #282;
+	color: #111;
 	text-align: center;
 	img {
 		float: left;
@@ -35,7 +35,7 @@
 
 #columns {
 	
-	background: #141;	
+	background: #232c7b;	
 	
 	#main {
 		margin-left: 17em;
@@ -47,7 +47,7 @@
 		float: left;
 		padding: 1em 2em;
 		width: 13em;
-		background: #141;
+		background: #232c7b;
 		
 		form, div {
 		  display: inline;
@@ -70,7 +70,7 @@
 			li {
 				list-style: none;
 				a{
-					color: #bfb;
+					color: #d9dcf7;
 					font-size: small;
 				}
 			}
@@ -82,8 +82,8 @@
     fieldset {
       background: #efe;
       legend {
-        color: #dfd;
-        background: #141;
+        color: white;
+        background: #232c7b;
         font-family: sans-serif;
         padding: 0.2em 1em;
       }  
